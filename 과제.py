@@ -208,5 +208,5 @@ def automatic_puzzle(puzzle):
 
     return -1
 
-cur = shufflePuzzle(cur, 1000)
+cur = shufflePuzzle(cur, 30)
 automatic_puzzle(cur)
